@@ -1,9 +1,9 @@
 # Site settings
 title: Stacy Zolnikov
-email: your-email@domain.com
+email: zolnikovstacy@gmail.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Android Developer - Adventure Seeker - Avid Learner "
+skills: "Android Developer - Gymnastics Coach - Eternal Learner - Adventure Seeker "
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Stacy Zolnikov
-  location: Location
+  location: New York, NY
   social: Around the Web
   credits: Credits
 
@@ -41,13 +41,13 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
+    url: https://www.facebook.com/stacy.zolnikov
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/StacyZol
 
 # Postal address (add as many lines as necessary)
 address:
