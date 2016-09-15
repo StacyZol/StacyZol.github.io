@@ -83,6 +83,8 @@ header {
     text-align: center;
     color: #fff;
     background-image: url("img/website_background.jpg");
+    background-repeat: no-repeat;
+    width:100%;
 }
 
 header .container {
