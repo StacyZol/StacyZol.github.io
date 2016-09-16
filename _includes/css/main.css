@@ -86,7 +86,7 @@ header {
     background-repeat:no-repeat;
     width:100%;
     height:auto;
-    background-position:100px;
+    background-size:contain;
  
 }
 
