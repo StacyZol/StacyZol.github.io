@@ -85,8 +85,8 @@ header {
     background-image: url("img/AdobeStock_88330127.jpeg");
     background-repeat:no-repeat;
     width:100%;
-    height:auto;
-    background-size:contain;
+    height:400px;
+    background-size:cover;
  
 }
 
