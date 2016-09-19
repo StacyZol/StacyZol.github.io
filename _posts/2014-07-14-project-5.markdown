@@ -1,10 +1,11 @@
 ---
+title: Shopping E-Commerce App
 layout: default
 modal-id: 5
 date: 2016-07-14
-img: project_one_final_final_last.png
+img: project_two_website_final.png
 alt: image-alt
-project-date: June 2016
+project-date: July 2016
 client: General Assembly
 category: Android Development
 description: Using Recycler Views and Singleton classes, this intuitive and seamless app tracks items, tasks, and challenges a user saves.  <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
