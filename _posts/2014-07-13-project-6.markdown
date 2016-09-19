@@ -1,8 +1,9 @@
 ---
+title: JSS Post
 layout: default
 modal-id: 6
 date: 2016-07-15
-img: project_one_final_final_last.png
+img: project_three_final.png
 alt: image-alt
 project-date: June 2016
 client: General Assembly
