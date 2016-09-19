@@ -84,9 +84,10 @@ header {
     color: #fff;
     background-image: url("img/website_background2.jpg");
     background-repeat:no-repeat;
-    width:100%;
+    width:50%;
     height:900px;
     background-size:cover;
+    
  
 }
 
