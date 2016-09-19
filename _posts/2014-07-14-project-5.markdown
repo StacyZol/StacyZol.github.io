@@ -8,6 +8,6 @@ alt: image-alt
 project-date: July 2016
 client: General Assembly
 category: Android Development
-description: Using Recycler Views and Singleton classes, this intuitive and seamless app tracks items, tasks, and challenges a user saves.  <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Using Database’s, Recycler Views, Singletons and Fragments, this app is a shopping platform designed to allow users to browse through a list of nurseries by location, browsing and searching within each nursery for items, and add them to a shopping cart and/or their favorites. The items are stored in a SQLite database and the favorites and shopping cart are stored in a Singleton. The shopping cart is accessible throughout the entire app and items can be added from an alert dialog where the item's description is also displayed. This app has a dynamic search and various material design elements that guides the user to a smooth purchase. 
 
 ---
