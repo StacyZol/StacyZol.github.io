@@ -32,14 +32,14 @@ color:
 # Footer settings
 footer:
   copyright: Stacy Zolnikov
-  location: New York/New Jersey
+  location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: http://linkedin.com/in/stacyzolnikov
   - title: facebook
     url: https://www.facebook.com/stacy.zolnikov
   - title: stack-overflow
@@ -51,7 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: New York
+  - line: New York, NY
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
