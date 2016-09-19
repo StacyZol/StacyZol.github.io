@@ -1,12 +1,13 @@
 ---
+title: I'm Possible - ToDo App
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2016-07-18
 img: project_one_final_final_last.png
 alt: image-alt
-project-date: April 2014
+project-date: June 2016
 client: Start Bootstrap
 category: Android Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Using RecyclerViews and Singleton classes, this app provides an intuitive and seamless way for users to trak items, tasks and challenges. Each activity displays the data in a custom RecyclerView. Data can be added, editted or deleted from the Singleton class. This was my first project in General Assembly's Android Development Immersive Bootcamp.
 
 ---
