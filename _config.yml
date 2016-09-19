@@ -2,7 +2,11 @@
 title: Stacy Zolnikov
 email: zolnikovstacy@gmail.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "I'm a thinker and a doer - I come up with solutions to problems (and sometimes solve for problems that don't even exist).  Because I'm curious by nature and ask a lot of questions, I've mastered the art of Googling which has made me an expert of on a variety of topics like eCommerce, foreign affairs and more recently, Android Development. 
+
+I'm fluent in Italian and Russian, have travelled over the world and have extensive knowledge in foreign affairs, international relations, human intelligence, world economics, diplomacy and humanitarian aid.  
+
+Some of my personal hobbies include: riding motorcycles, scuba diving, producing music, running marathons, traveling and coming up with entrepreneurial, world-changing ideas."
 skills: "Android Developer - Gymnastics Coach - Perpetual Learner - Adventure Seeker "
 meta_author: Zolnikov, Stacy
 
@@ -42,10 +46,6 @@ social:
     url: http://linkedin.com/in/stacyzolnikov
   - title: facebook
     url: https://www.facebook.com/stacy.zolnikov
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/StacyZol
 
