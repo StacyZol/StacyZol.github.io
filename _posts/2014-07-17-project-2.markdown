@@ -11,3 +11,9 @@ category: Android
 description: Using Firebase and Google Cloud Messaging​, this user-facing app is designed to serve as "the uber for handymen". Users are able to locate and communicate with handymen in real-time. The core functionality is chat, enabling users to communicate their needs, exchange contact information and finalize details. Using a variety of material design, network databases, and Firebase/Google API, handymen and users are able to meet in virtual marketplace to exchange services/needs. Currently, this app and HandyHelper Pro (see other project) is in alpha version and will not be released to the public yet. 
 
 ---
+
+<div style="text-align:center">
+<a href= "https://github.com/StacyZol/Project4/tree/master/HandyHelper" target="_blank">
+<img alt='View on GitHub' src= "http://stacyzol.github.io/img/GitHub_Logo.png" width="180"/>
+</a>
+</div>
