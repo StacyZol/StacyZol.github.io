@@ -1,9 +1,9 @@
 ---
-title: I'm Possible - ToDo App
+title: HandyHelper Pro
 layout: default
 modal-id: 3
 date: 2016-07-16
-img: project_one_final_final_last.png
+img: project_six.png
 alt: image-alt
 project-date: April 2016
 client: General Assembly
