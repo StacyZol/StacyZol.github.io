@@ -11,3 +11,8 @@ category: Android
 description: Using Firebase and Google Cloud Messaging​, this handyman-facing app is designed for handymen to create a profile, update their work schedule and chat with users needing their services in real-time. The core functionality is chat, enabling handymen to communicate with users who need their services, exchange contact information and finalize details. Currently, this app and HandyHelper (see other project) is in alpha version and will not be released to the public yet.
 
 ---
+<div style="text-align:center">
+<a href= "https://github.com/StacyZol/Project4/tree/master/HandyHelper" target="_blank">
+<img alt='View on GitHub' src= "http://stacyzol.github.io/img/GitHub_Logo.png" width="180"/>
+</a>
+</div>
