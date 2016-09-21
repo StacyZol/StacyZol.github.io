@@ -11,3 +11,8 @@ category: Android Development
 description: Using Database’s, Recycler Views, Singletons and Fragments, this app is a shopping platform designed to allow users to browse through a list of nurseries by location, browsing and searching within each nursery for items, and add them to a shopping cart and/or their favorites. The items are stored in a SQLite database and the favorites and shopping cart are stored in a Singleton. The shopping cart is accessible throughout the entire app and items can be added from an alert dialog where the item's description is also displayed. This app has a dynamic search and various material design elements that guides the user to a smooth purchase. 
 
 ---
+<div style="text-align:center">
+<a href= "https://github.com/StacyZol/Project-2---Ecommerce-Mobile-App" target="_blank">
+<img alt='View on GitHub' src= "http://stacyzol.github.io/img/GitHub_Logo.png" width="180"/>
+</a>
+</div>
