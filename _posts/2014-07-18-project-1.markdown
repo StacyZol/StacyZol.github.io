@@ -1,13 +1,13 @@
 ---
-title: I'm Possible - ToDo App
+title: Coming Soon....
 layout: default
 modal-id: 1
 date: 2016-07-18
-img: project_one_final_final_last.png
+img: project_seven.jpg
 alt: image-alt
 project-date: June 2016
 client: Start Bootstrap
 category: Android Development
-description: Using RecyclerViews and Singleton classes, this app provides an intuitive and seamless way for users to trak items, tasks and challenges. Each activity displays the data in a custom RecyclerView. Data can be added, editted or deleted from the Singleton class. This was my first project in General Assembly's Android Development Immersive Bootcamp.
+description: Something good is cooking...check back soon for an update!
 
 ---
