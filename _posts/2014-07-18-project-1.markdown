@@ -5,9 +5,9 @@ modal-id: 1
 date: 2016-07-18
 img: project_seven.jpg
 alt: image-alt
-project-date: June 2016
-client: Start Bootstrap
-category: Android Development
+project-date: Soon!
+client: N/A
+category: Android
 description: Something good is cooking...check back soon for an update!
 
 ---
