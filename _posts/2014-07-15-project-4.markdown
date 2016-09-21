@@ -8,6 +8,6 @@ alt: image-alt
 project-date: June 2016
 client: General Assembly
 category: Android
-description: Using RecyclerViews and Singleton classes, this app provides an intuitive and seamless way for users to trak items, tasks and challenges. Each activity displays the data in a custom RecyclerView. Data can be added, editted or deleted from the Singleton class. This was my first project in General Assembly's Android Development Immersive Bootcamp.
+description: Using RecyclerViews and Singleton classes, this app provides an intuitive and seamless way for users to track items, tasks and challenges. Each activity displays the data in a custom RecyclerView. Data can be added, editted or deleted from the Singleton class. This was my first project in General Assembly's Android Development Immersive Bootcamp.
 
 ---
