@@ -11,3 +11,7 @@ category: Android
 description: Using New York Times API, I created a news media platform for users to read recent and topical news articles, favorite and share articles, and subscribe to topics. I built this with a team of 2 others. JSON data from the APIs are parsed using Gson and Retrofit through an AsyncTask. An AsyncTask is also used to push notifications on news updates. The interface features a TabLayout housing fragments and each news article is displayed on a customized cards fitted onto a RecyclerView.
 
 ---
+<a href= "https://github.com/jchan1990/Project-3---Team-Project/tree/master/JJSPostp" target="_blank">
+<img alt='View on GitHub' src= "http://stacyzol.github.io/img/GitHub_Logo.png" width="180"/>
+</a>
+</div>
